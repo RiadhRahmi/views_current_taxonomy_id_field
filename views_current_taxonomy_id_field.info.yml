@@ -1,0 +1,6 @@
+name: 'views_current_taxonomy_id_field'
+type: module
+description: 'Return current taxonomy term id'
+core: 8.x
+package: 'Custom'
+
